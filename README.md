@@ -1,2 +1,2 @@
 # Projects
-Personal and Course Projects
+Independent and Course Projects
